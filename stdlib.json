@@ -1,0 +1,14 @@
+{
+  "name": "vegetassgss3/discord-gpt",
+  "timeout": 30000,
+  "connector": false,
+  "events": {
+    "functions/events/autocode/self/deployed.js": {
+      "name": "autocode.self.deployed"
+    },
+    "functions/events/discord/bot_mention.js": {
+      "name": "discord.bot_mention"
+    }
+  },
+  "memory": 512
+}

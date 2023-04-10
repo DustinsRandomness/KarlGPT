@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "Vegetassgss3",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
